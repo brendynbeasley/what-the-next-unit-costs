@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large or temporary downloads (all inputs used here are committed in data/raw/)
+data/raw/*.tmp
+data/raw/NipaDataA.txt
+
+# Secrets
+*.key
+*_key*.txt
+.env
+
+# OS files
+.DS_Store

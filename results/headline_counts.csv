@@ -1,0 +1,13 @@
+measure,value
+NBER-CES value added: industries with first-stage F >= 10,14.0
+"NBER-CES value added: of those, 95% CI excludes mu = 1",14.0
+NBER-CES value added: median mu among strong-instrument industries,2.599423311210277
+NBER-CES gross output: industries with first-stage F >= 10,15.0
+"NBER-CES gross output: of those, 95% CI excludes mu = 1",14.0
+NBER-CES gross output: median mu among strong-instrument industries,1.4335124400178139
+Basu-Fernald identity: median value-added mu implied by gross-output mu (strong industries),2.5029966371383563
+Basu-Fernald identity: median directly estimated value-added mu (same industries),2.5584467901258474
+BEA all inputs: industries with first-stage F >= 10,7.0
+"BEA all inputs: of those, 95% CI excludes mu = 1",4.0
+BEA all inputs: median mu among strong-instrument industries,1.2694060858431786
+BEA value added: median mu among the same industries,2.0007111219865705
